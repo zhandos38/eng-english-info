@@ -50,7 +50,7 @@ AppAsset::register($this);
             </div>
         </div>
         <div class="section-hero__footer">
-            <p><?= $this->params['subTitle'] ?></p>
+            <p><?= $this->params['subTitle'] ? $this->params['subTitle'] : '' ?></p>
         </div>
     </div>
 </section>
