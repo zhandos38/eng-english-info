@@ -145,11 +145,10 @@ body {
 }
 
 .section-offer {
-  background: linear-gradient(90deg, rgba(0,0,0,0.8) 10%, rgba(0,0,0,0.8) 40%), url("/img/252.jpg");
-  background-position: top;
+  background: linear-gradient(90deg, rgba(0,0,0,0.8) 10%, rgba(0,0,0,0.8) 40%), url("/img/Web development foundations.jpg");
+  background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 .section-offer__content {
