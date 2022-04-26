@@ -29,6 +29,6 @@
                 </ul>
             </div>
         </div>
-        <div class="dev-info"><span>Online English. Все права защищены - 2020.&nbsp;&nbsp;</span><span>With&nbsp;&nbsp;<i class="fa fa-heart"></i>&nbsp;</span><a href="http://itbgroup.kz">Itbgroup.kz</a></div>
+        <div class="dev-info"><span>Автор: Болат Насима Нышанқызы. Группа: К111-17. Все права защищены - 2022.&nbsp;&nbsp;</span><span>With&nbsp;&nbsp;<i class="fa fa-heart"></i>&nbsp;</span><a href="http://itbgroup.kz">Itbgroup.kz</a></div>
     </div>
 </footer>

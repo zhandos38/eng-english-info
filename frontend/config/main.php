@@ -38,13 +38,25 @@ return [
         'errorHandler' => [
             'errorAction' => 'site/error',
         ],
+        'i18n' => [
+            'translations' => [
+                '*' => [
+                    'class' => 'yii\i18n\PhpMessageSource',
+                    'basePath' => '@common/messages',
+                ],
+                'app' => [
+                    'class' => 'yii\i18n\PhpMessageSource',
+                    'basePath' => '@common/messages',
+                ],
+            ],
+        ],
         'urlManager' => [
             'class' => 'codemix\localeurls\UrlManager',
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'languages' => ['kz', 'ru'],
             'enableDefaultLanguageUrlCode' => true,
-            'enableLanguageDetection' => true,
+            'enableLanguageDetection' => false,
             'rules' => [
                 '/' => 'site/index',
                 'login' => 'site/login',
