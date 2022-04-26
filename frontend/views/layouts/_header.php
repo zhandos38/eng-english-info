@@ -6,8 +6,8 @@ use yii\helpers\Url;
     <nav class="navbar navbar-expand-lg transparent-bg static-nav">
         <div class="container">
             <a class="navbar-brand" href="/">
-                <img src="/maintemplate/img/logo.png" alt="logo" class="logo-default">
-                <img src="/maintemplate/img/logo.svg" alt="logo" class="logo-scrolled">
+                <img src="/img/logo.jpg" alt="logo" class="logo-default" style="width: 80px">
+                <img src="/img/logo.jpg" alt="logo" class="logo-scrolled" style="width: 80px">
             </a>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav mx-auto ml-xl-auto mr-xl-0">

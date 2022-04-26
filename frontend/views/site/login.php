@@ -25,11 +25,11 @@ $this->params['breadcrumbs'][] = $this->title;
                 <?= $form->field($model, 'rememberMe')->checkbox() ?>
 
                 <div style="color:#999;margin:1em 0">
-                    Вы не зарегистрированы? <?= Html::a(Yii::t('app', 'Зарегистрироватся'), ['site/signup']) ?>.
+                    <?= Yii::t('app', 'Вы не зарегистрированы?') ?> <?= Html::a(Yii::t('app', 'Зарегистрироватся'), ['site/signup']) ?>.
                     <br>
-                    Забыли пароль? <?= Html::a(Yii::t('app', 'Восстановить'), ['site/request-password-reset']) ?>.
+                    <?= Yii::t('app', 'Забыли пароль?') ?> <?= Html::a(Yii::t('app', 'Восстановить'), ['site/request-password-reset']) ?>.
                     <br>
-                    Нужно переотправить письмо для подтверждение? <?= Html::a('Переотправить', ['site/resend-verification-email']) ?>
+                    <?= Yii::t('app', 'Нужно переотправить письмо для подтверждение?') ?> <?= Html::a('Переотправить', ['site/resend-verification-email']) ?>
                 </div>
 
                 <div class="form-group">
