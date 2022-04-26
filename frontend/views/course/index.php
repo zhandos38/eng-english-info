@@ -6,7 +6,6 @@
 $this->title = Yii::t('app', 'Все курсы');
 
 $this->params['breadcrumbs'][] = ['label' => $this->title, 'url' => \yii\helpers\Url::to(['site/about'])];
-$this->params['subTitle'] = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
 ?>
 <div class="row">
     <?php foreach ($courses as $course): ?>

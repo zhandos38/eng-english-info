@@ -42,8 +42,9 @@ return [
             'class' => 'codemix\localeurls\UrlManager',
             'enablePrettyUrl' => true,
             'showScriptName' => false,
-            'languages' => ['ru', 'kz'],
+            'languages' => ['kz', 'ru'],
             'enableDefaultLanguageUrlCode' => true,
+            'enableLanguageDetection' => true,
             'rules' => [
                 '/' => 'site/index',
                 'login' => 'site/login',

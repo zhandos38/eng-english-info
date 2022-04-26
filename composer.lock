@@ -47,6 +47,10 @@
                 "theme",
                 "web"
             ],
+            "support": {
+                "issues": "https://github.com/almasaeed2010/AdminLTE/issues",
+                "source": "https://github.com/ColorlibHQ/AdminLTE/tree/v2.4.18"
+            },
             "time": "2019-08-29T08:20:20+00:00"
         },
         {
@@ -103,6 +107,10 @@
                 "rackspace",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/boundstate/yii2-mailgun/issues",
+                "source": "https://github.com/boundstate/yii2-mailgun/tree/v1.4.0"
+            },
             "time": "2021-02-04T15:43:08+00:00"
         },
         {
@@ -131,7 +139,7 @@
             "version": "5.5.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/FortAwesome/Font-Awesome.git",
+                "url": "git@github.com:FortAwesome/Font-Awesome.git",
                 "reference": "4f4cb7c2f55d14d24f10390ebfeab0d25af612f3"
             },
             "dist": {
@@ -328,6 +336,10 @@
                 "markdown",
                 "markdown-extra"
             ],
+            "support": {
+                "issues": "https://github.com/cebe/markdown/issues",
+                "source": "https://github.com/cebe/markdown"
+            },
             "time": "2018-03-26T11:24:36+00:00"
         },
         {
@@ -371,6 +383,11 @@
                 "gravatar",
                 "yii"
             ],
+            "support": {
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/cebe/yii2-gravatar/issues",
+                "source": "https://github.com/cebe/yii2-gravatar"
+            },
             "time": "2013-12-10T17:49:58+00:00"
         },
         {
@@ -423,6 +440,10 @@
                 "stream_filter_append",
                 "stream_filter_register"
             ],
+            "support": {
+                "issues": "https://github.com/clue/stream-filter/issues",
+                "source": "https://github.com/clue/stream-filter/tree/v1.6.0"
+            },
             "funding": [
                 {
                     "url": "https://clue.engineering/support",
@@ -474,6 +495,10 @@
                 "locale",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/codemix/yii2-localeurls/issues",
+                "source": "https://github.com/codemix/yii2-localeurls/tree/master"
+            },
             "time": "2018-06-18T12:11:10+00:00"
         },
         {
@@ -515,6 +540,10 @@
                 "image",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/dkhlystov/yii2-imagefile/issues",
+                "source": "https://github.com/dkhlystov/yii2-imagefile/tree/0.2.1"
+            },
             "time": "2017-01-22T14:44:44+00:00"
         },
         {
@@ -562,6 +591,10 @@
                 "upload",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/dkhlystov/yii2-uploadimage/issues",
+                "source": "https://github.com/dkhlystov/yii2-uploadimage/tree/0.3.0"
+            },
             "time": "2019-03-01T06:59:37+00:00"
         },
         {
@@ -622,6 +655,10 @@
                 "theme",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/dmstr/yii2-adminlte-asset/issues",
+                "source": "https://github.com/dmstr/yii2-adminlte-asset/tree/master"
+            },
             "time": "2018-07-24T14:47:13+00:00"
         },
         {
@@ -680,6 +717,10 @@
                 "parser",
                 "php"
             ],
+            "support": {
+                "issues": "https://github.com/doctrine/lexer/issues",
+                "source": "https://github.com/doctrine/lexer/tree/1.2.3"
+            },
             "funding": [
                 {
                     "url": "https://www.doctrine-project.org/sponsorship.html",
@@ -752,6 +793,10 @@
                 "validation",
                 "validator"
             ],
+            "support": {
+                "issues": "https://github.com/egulias/EmailValidator/issues",
+                "source": "https://github.com/egulias/EmailValidator/tree/3.1.2"
+            },
             "funding": [
                 {
                     "url": "https://github.com/egulias",
@@ -805,6 +850,10 @@
             "keywords": [
                 "html"
             ],
+            "support": {
+                "issues": "https://github.com/ezyang/htmlpurifier/issues",
+                "source": "https://github.com/ezyang/htmlpurifier/tree/v4.14.0"
+            },
             "time": "2021-12-25T01:21:49+00:00"
         },
         {
@@ -853,6 +902,10 @@
                 "font",
                 "icon"
             ],
+            "support": {
+                "issues": "https://github.com/FortAwesome/Font-Awesome/issues",
+                "source": "https://github.com/FortAwesome/Font-Awesome/tree/v4.7.0"
+            },
             "time": "2016-10-24T15:52:54+00:00"
         },
         {
@@ -897,6 +950,10 @@
                 "thumbnail",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/himiklab/yii2-easy-thumbnail-image-helper/issues",
+                "source": "https://github.com/himiklab/yii2-easy-thumbnail-image-helper"
+            },
             "abandoned": true,
             "time": "2018-11-12T11:51:07+00:00"
         },
@@ -956,6 +1013,10 @@
                 "image manipulation",
                 "image processing"
             ],
+            "support": {
+                "issues": "https://github.com/php-imagine/Imagine/issues",
+                "source": "https://github.com/php-imagine/Imagine/tree/1.3.2"
+            },
             "time": "2022-04-01T11:58:30+00:00"
         },
         {
@@ -998,6 +1059,10 @@
                 "widget",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/Insolita/yii2-adminlte-widgets/issues",
+                "source": "https://github.com/Insolita/yii2-adminlte-widgets/tree/3.2.3"
+            },
             "time": "2021-08-12T10:31:23+00:00"
         },
         {
@@ -1051,6 +1116,10 @@
                 "progress",
                 "upload"
             ],
+            "support": {
+                "issues": "https://github.com/kartik-v/bootstrap-fileinput/issues",
+                "source": "https://github.com/kartik-v/bootstrap-fileinput/tree/v5.2.7"
+            },
             "funding": [
                 {
                     "url": "https://opencollective.com/bootstrap-fileinput",
@@ -1076,6 +1145,7 @@
             "require": {
                 "kartik-v/yii2-krajee-base": ">=3.0.0"
             },
+            "default-branch": true,
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
@@ -1111,6 +1181,10 @@
                 "widget",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/kartik-v/yii2-date-range/issues",
+                "source": "https://github.com/kartik-v/yii2-date-range/tree/v1.7.3"
+            },
             "time": "2021-09-01T12:16:39+00:00"
         },
         {
@@ -1164,6 +1238,10 @@
                 "widget",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/kartik-v/yii2-krajee-base/issues",
+                "source": "https://github.com/kartik-v/yii2-krajee-base/tree/v3.0.4"
+            },
             "time": "2022-03-04T08:41:33+00:00"
         },
         {
@@ -1184,6 +1262,7 @@
                 "kartik-v/bootstrap-fileinput": ">=5.0.0",
                 "kartik-v/yii2-krajee-base": ">=3.0.1"
             },
+            "default-branch": true,
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
@@ -1219,6 +1298,10 @@
                 "widget",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/kartik-v/yii2-widget-fileinput/issues",
+                "source": "https://github.com/kartik-v/yii2-widget-fileinput/tree/master"
+            },
             "funding": [
                 {
                     "url": "https://opencollective.com/yii2-widget-fileinput",
@@ -1281,6 +1364,10 @@
                 }
             ],
             "description": "The Mailgun SDK provides methods for all API functions.",
+            "support": {
+                "issues": "https://github.com/mailgun/mailgun-php/issues",
+                "source": "https://github.com/mailgun/mailgun-php/tree/v3.5.1"
+            },
             "time": "2021-08-16T09:57:44+00:00"
         },
         {
@@ -1338,6 +1425,11 @@
                 "pseudorandom",
                 "random"
             ],
+            "support": {
+                "email": "info@paragonie.com",
+                "issues": "https://github.com/paragonie/random_compat/issues",
+                "source": "https://github.com/paragonie/random_compat"
+            },
             "time": "2020-10-15T08:29:30+00:00"
         },
         {
@@ -1409,6 +1501,10 @@
                 "http",
                 "httplug"
             ],
+            "support": {
+                "issues": "https://github.com/php-http/client-common/issues",
+                "source": "https://github.com/php-http/client-common/tree/2.5.0"
+            },
             "time": "2021-11-26T15:01:24+00:00"
         },
         {
@@ -1473,6 +1569,10 @@
                 "message",
                 "psr7"
             ],
+            "support": {
+                "issues": "https://github.com/php-http/discovery/issues",
+                "source": "https://github.com/php-http/discovery/tree/1.14.1"
+            },
             "time": "2021-09-18T07:57:46+00:00"
         },
         {
@@ -1531,6 +1631,10 @@
                 "client",
                 "http"
             ],
+            "support": {
+                "issues": "https://github.com/php-http/httplug/issues",
+                "source": "https://github.com/php-http/httplug/tree/2.3.0"
+            },
             "time": "2022-02-21T09:52:22+00:00"
         },
         {
@@ -1601,6 +1705,10 @@
                 "message",
                 "psr-7"
             ],
+            "support": {
+                "issues": "https://github.com/php-http/message/issues",
+                "source": "https://github.com/php-http/message/tree/1.13.0"
+            },
             "time": "2022-02-11T13:41:14+00:00"
         },
         {
@@ -1651,6 +1759,10 @@
                 "stream",
                 "uri"
             ],
+            "support": {
+                "issues": "https://github.com/php-http/message-factory/issues",
+                "source": "https://github.com/php-http/message-factory/tree/master"
+            },
             "time": "2015-12-19T14:08:53+00:00"
         },
         {
@@ -1709,6 +1821,10 @@
                 "multipart stream",
                 "stream"
             ],
+            "support": {
+                "issues": "https://github.com/php-http/multipart-stream-builder/issues",
+                "source": "https://github.com/php-http/multipart-stream-builder/tree/1.2.0"
+            },
             "time": "2021-05-21T08:32:01+00:00"
         },
         {
@@ -1762,6 +1878,10 @@
             "keywords": [
                 "promise"
             ],
+            "support": {
+                "issues": "https://github.com/php-http/promise/issues",
+                "source": "https://github.com/php-http/promise/tree/1.1.0"
+            },
             "time": "2020-07-07T09:29:14+00:00"
         },
         {
@@ -1811,6 +1931,9 @@
                 "psr",
                 "psr-18"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/http-client/tree/master"
+            },
             "time": "2020-06-29T06:28:15+00:00"
         },
         {
@@ -1863,6 +1986,9 @@
                 "request",
                 "response"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/http-factory/tree/master"
+            },
             "time": "2019-04-30T12:38:16+00:00"
         },
         {
@@ -1913,6 +2039,9 @@
                 "request",
                 "response"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/http-message/tree/master"
+            },
             "time": "2016-08-06T14:39:51+00:00"
         },
         {
@@ -1965,6 +2094,10 @@
                 "font",
                 "yii"
             ],
+            "support": {
+                "issues": "https://github.com/rmrevin/yii2-fontawesome/issues",
+                "source": "https://github.com/rmrevin/yii2-fontawesome"
+            },
             "time": "2017-01-11T14:05:47+00:00"
         },
         {
@@ -2026,6 +2159,10 @@
                 "mail",
                 "mailer"
             ],
+            "support": {
+                "issues": "https://github.com/swiftmailer/swiftmailer/issues",
+                "source": "https://github.com/swiftmailer/swiftmailer/tree/v6.3.0"
+            },
             "funding": [
                 {
                     "url": "https://github.com/fabpot",
@@ -2087,6 +2224,9 @@
             ],
             "description": "A generic function and convention to trigger deprecation notices",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/deprecation-contracts/tree/v2.5.1"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2153,6 +2293,9 @@
                 "configuration",
                 "options"
             ],
+            "support": {
+                "source": "https://github.com/symfony/options-resolver/tree/v5.4.3"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2232,6 +2375,9 @@
                 "polyfill",
                 "portable"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.25.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2312,6 +2458,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-iconv/tree/v1.25.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2396,6 +2545,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.25.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2477,6 +2629,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.25.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2557,6 +2712,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.25.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2630,6 +2788,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php72/tree/v1.25.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2706,6 +2867,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php73/tree/v1.25.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2786,6 +2950,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.25.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -2855,6 +3022,10 @@
                 "yii 2",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/vova07/yii2-imperavi-widget/issues?state=open",
+                "source": "https://github.com/vova07/yii2-imperavi-widget"
+            },
             "time": "2019-03-26T11:39:06+00:00"
         },
         {
@@ -2909,6 +3080,10 @@
                 "check",
                 "validate"
             ],
+            "support": {
+                "issues": "https://github.com/webmozarts/assert/issues",
+                "source": "https://github.com/webmozarts/assert/tree/1.10.0"
+            },
             "time": "2021-03-09T10:59:23+00:00"
         },
         {
@@ -2955,6 +3130,10 @@
                 "yii2 editable column",
                 "yii2 editable field"
             ],
+            "support": {
+                "issues": "https://github.com/yii2mod/yii2-editable/issues",
+                "source": "https://github.com/yii2mod/yii2-editable/tree/master"
+            },
             "time": "2018-01-15T15:00:16+00:00"
         },
         {
@@ -3004,6 +3183,10 @@
                 "yii2",
                 "yii2 enum"
             ],
+            "support": {
+                "issues": "https://github.com/yii2mod/yii2-enum/issues",
+                "source": "https://github.com/yii2mod/yii2-enum/tree/master"
+            },
             "time": "2017-04-19T22:06:46+00:00"
         },
         {
@@ -3053,6 +3236,10 @@
                 "storage",
                 "yii2"
             ],
+            "support": {
+                "issues": "https://github.com/yii2mod/yii2-settings/issues",
+                "source": "https://github.com/yii2mod/yii2-settings/tree/master"
+            },
             "time": "2018-08-20T19:39:14+00:00"
         },
         {
@@ -3101,6 +3288,10 @@
                 "yii2 alert",
                 "yii2 sweet alert"
             ],
+            "support": {
+                "issues": "https://github.com/yii2mod/yii2-sweet-alert/issues",
+                "source": "https://github.com/yii2mod/yii2-sweet-alert/tree/master"
+            },
             "time": "2017-09-12T08:35:07+00:00"
         },
         {
@@ -3202,6 +3393,13 @@
                 "framework",
                 "yii2"
             ],
+            "support": {
+                "forum": "https://forum.yiiframework.com/",
+                "irc": "ircs://irc.libera.chat:6697/yii",
+                "issues": "https://github.com/yiisoft/yii2/issues?state=open",
+                "source": "https://github.com/yiisoft/yii2",
+                "wiki": "https://www.yiiframework.com/wiki"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -3289,6 +3487,13 @@
                 "bootstrap",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-bootstrap/issues",
+                "source": "https://github.com/yiisoft/yii2-bootstrap",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -3382,6 +3587,13 @@
                 "bootstrap4",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-bootstrap4/issues",
+                "source": "https://github.com/yiisoft/yii2-bootstrap4",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -3451,6 +3663,13 @@
                 "extension installer",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-composer/issues",
+                "source": "https://github.com/yiisoft/yii2-composer",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -3527,6 +3746,13 @@
                 "httpclient",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-httpclient/issues",
+                "source": "https://github.com/yiisoft/yii2-httpclient",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -3603,6 +3829,13 @@
                 "imagine",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-imagine/issues",
+                "source": "https://github.com/yiisoft/yii2-imagine",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -3681,6 +3914,13 @@
                 "swiftmailer",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-swiftmailer/issues",
+                "source": "https://github.com/yiisoft/yii2-swiftmailer",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -3756,6 +3996,10 @@
                 "gherkin",
                 "parser"
             ],
+            "support": {
+                "issues": "https://github.com/Behat/Gherkin/issues",
+                "source": "https://github.com/Behat/Gherkin/tree/v4.9.0"
+            },
             "time": "2021-10-12T13:05:09+00:00"
         },
         {
@@ -3846,6 +4090,9 @@
                 "functional testing",
                 "unit testing"
             ],
+            "support": {
+                "source": "https://github.com/Codeception/base/tree/2.5.6"
+            },
             "abandoned": true,
             "time": "2019-04-24T11:36:34+00:00"
         },
@@ -3869,9 +4116,6 @@
                 "sebastian/comparator": ">=1.2.4 <3.0",
                 "sebastian/diff": ">=1.4 <4.0"
             },
-            "replace": {
-                "codeception/phpunit-wrapper": "*"
-            },
             "require-dev": {
                 "codeception/specify": "*",
                 "vlucas/phpdotenv": "^3.0"
@@ -3893,6 +4137,10 @@
                 }
             ],
             "description": "PHPUnit classes used by Codeception",
+            "support": {
+                "issues": "https://github.com/Codeception/phpunit-wrapper/issues",
+                "source": "https://github.com/Codeception/phpunit-wrapper/tree/6.8.3"
+            },
             "time": "2020-12-28T14:00:48+00:00"
         },
         {
@@ -3923,6 +4171,10 @@
                 "MIT"
             ],
             "description": "Flexible Stub wrapper for PHPUnit's Mock Builder",
+            "support": {
+                "issues": "https://github.com/Codeception/Stub/issues",
+                "source": "https://github.com/Codeception/Stub/tree/master"
+            },
             "time": "2019-03-02T15:35:10+00:00"
         },
         {
@@ -3963,6 +4215,10 @@
                 }
             ],
             "description": "BDD assertion library for PHPUnit",
+            "support": {
+                "issues": "https://github.com/Codeception/Verify/issues",
+                "source": "https://github.com/Codeception/Verify/tree/1.0.0"
+            },
             "time": "2017-11-12T01:51:59+00:00"
         },
         {
@@ -4015,6 +4271,10 @@
                 "constructor",
                 "instantiate"
             ],
+            "support": {
+                "issues": "https://github.com/doctrine/instantiator/issues",
+                "source": "https://github.com/doctrine/instantiator/tree/1.4.1"
+            },
             "funding": [
                 {
                     "url": "https://www.doctrine-project.org/sponsorship.html",
@@ -4092,6 +4352,10 @@
                 "faker",
                 "fixtures"
             ],
+            "support": {
+                "issues": "https://github.com/FakerPHP/Faker/issues",
+                "source": "https://github.com/FakerPHP/Faker/tree/v1.19.0"
+            },
             "time": "2022-02-02T17:38:57+00:00"
         },
         {
@@ -4184,6 +4448,10 @@
                 "uri",
                 "url"
             ],
+            "support": {
+                "issues": "https://github.com/guzzle/psr7/issues",
+                "source": "https://github.com/guzzle/psr7/tree/1.8.5"
+            },
             "funding": [
                 {
                     "url": "https://github.com/GrahamCampbell",
@@ -4247,6 +4515,10 @@
                 "object",
                 "object graph"
             ],
+            "support": {
+                "issues": "https://github.com/myclabs/DeepCopy/issues",
+                "source": "https://github.com/myclabs/DeepCopy/tree/1.11.0"
+            },
             "funding": [
                 {
                     "url": "https://tidelift.com/funding/github/packagist/myclabs/deep-copy",
@@ -4308,6 +4580,10 @@
                 }
             ],
             "description": "Component for reading phar.io manifest information from a PHP Archive (PHAR)",
+            "support": {
+                "issues": "https://github.com/phar-io/manifest/issues",
+                "source": "https://github.com/phar-io/manifest/tree/master"
+            },
             "time": "2017-03-05T18:14:27+00:00"
         },
         {
@@ -4355,6 +4631,10 @@
                 }
             ],
             "description": "Library for handling version information and constraints",
+            "support": {
+                "issues": "https://github.com/phar-io/version/issues",
+                "source": "https://github.com/phar-io/version/tree/master"
+            },
             "time": "2017-03-05T17:38:23+00:00"
         },
         {
@@ -4404,6 +4684,10 @@
                 "reflection",
                 "static analysis"
             ],
+            "support": {
+                "issues": "https://github.com/phpDocumentor/ReflectionCommon/issues",
+                "source": "https://github.com/phpDocumentor/ReflectionCommon/tree/2.x"
+            },
             "time": "2020-06-27T09:03:43+00:00"
         },
         {
@@ -4457,6 +4741,10 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
+            "support": {
+                "issues": "https://github.com/phpDocumentor/ReflectionDocBlock/issues",
+                "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/5.3.0"
+            },
             "time": "2021-10-19T17:43:47+00:00"
         },
         {
@@ -4503,6 +4791,10 @@
                 }
             ],
             "description": "A PSR-5 based resolver of Class names, Types and Structural Element Names",
+            "support": {
+                "issues": "https://github.com/phpDocumentor/TypeResolver/issues",
+                "source": "https://github.com/phpDocumentor/TypeResolver/tree/1.6.1"
+            },
             "time": "2022-03-15T21:29:03+00:00"
         },
         {
@@ -4541,6 +4833,9 @@
                 }
             ],
             "description": "A comprehensive library for generating differences between two hashable objects (strings or arrays).",
+            "support": {
+                "source": "https://github.com/phpspec/php-diff/tree/v1.1.3"
+            },
             "time": "2020-09-18T13:47:07+00:00"
         },
         {
@@ -4604,6 +4899,10 @@
                 "spy",
                 "stub"
             ],
+            "support": {
+                "issues": "https://github.com/phpspec/prophecy/issues",
+                "source": "https://github.com/phpspec/prophecy/tree/v1.10.3"
+            },
             "time": "2020-03-05T15:02:03+00:00"
         },
         {
@@ -4667,6 +4966,10 @@
                 "testing",
                 "xunit"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-code-coverage/issues",
+                "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/5.3"
+            },
             "time": "2018-04-06T15:36:58+00:00"
         },
         {
@@ -4714,6 +5017,11 @@
                 "filesystem",
                 "iterator"
             ],
+            "support": {
+                "irc": "irc://irc.freenode.net/phpunit",
+                "issues": "https://github.com/sebastianbergmann/php-file-iterator/issues",
+                "source": "https://github.com/sebastianbergmann/php-file-iterator/tree/1.4.5"
+            },
             "time": "2017-11-27T13:52:08+00:00"
         },
         {
@@ -4755,6 +5063,10 @@
             "keywords": [
                 "template"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-text-template/issues",
+                "source": "https://github.com/sebastianbergmann/php-text-template/tree/1.2.1"
+            },
             "time": "2015-06-21T13:50:34+00:00"
         },
         {
@@ -4804,6 +5116,10 @@
             "keywords": [
                 "timer"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-timer/issues",
+                "source": "https://github.com/sebastianbergmann/php-timer/tree/master"
+            },
             "time": "2017-02-26T11:10:40+00:00"
         },
         {
@@ -4853,6 +5169,10 @@
             "keywords": [
                 "tokenizer"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-token-stream/issues",
+                "source": "https://github.com/sebastianbergmann/php-token-stream/tree/master"
+            },
             "abandoned": true,
             "time": "2017-11-27T05:48:46+00:00"
         },
@@ -4938,6 +5258,10 @@
                 "testing",
                 "xunit"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/phpunit/issues",
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/6.5.14"
+            },
             "time": "2019-02-01T05:22:47+00:00"
         },
         {
@@ -4997,6 +5321,10 @@
                 "mock",
                 "xunit"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/phpunit-mock-objects/issues",
+                "source": "https://github.com/sebastianbergmann/phpunit-mock-objects/tree/5.0.10"
+            },
             "abandoned": true,
             "time": "2018-08-09T05:50:03+00:00"
         },
@@ -5047,6 +5375,10 @@
                 "container-interop",
                 "psr"
             ],
+            "support": {
+                "issues": "https://github.com/php-fig/container/issues",
+                "source": "https://github.com/php-fig/container/tree/2.0.2"
+            },
             "time": "2021-11-05T16:47:00+00:00"
         },
         {
@@ -5087,6 +5419,10 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
+            "support": {
+                "issues": "https://github.com/ralouphie/getallheaders/issues",
+                "source": "https://github.com/ralouphie/getallheaders/tree/develop"
+            },
             "time": "2019-03-08T08:55:37+00:00"
         },
         {
@@ -5132,6 +5468,10 @@
             ],
             "description": "Looks up which function or method a line of code belongs to",
             "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/issues",
+                "source": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/tree/1.0.2"
+            },
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -5202,6 +5542,10 @@
                 "compare",
                 "equality"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/comparator/issues",
+                "source": "https://github.com/sebastianbergmann/comparator/tree/master"
+            },
             "time": "2018-02-01T13:46:46+00:00"
         },
         {
@@ -5254,6 +5598,10 @@
             "keywords": [
                 "diff"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/diff/issues",
+                "source": "https://github.com/sebastianbergmann/diff/tree/master"
+            },
             "time": "2017-08-03T08:09:46+00:00"
         },
         {
@@ -5304,6 +5652,10 @@
                 "environment",
                 "hhvm"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/environment/issues",
+                "source": "https://github.com/sebastianbergmann/environment/tree/master"
+            },
             "time": "2017-07-01T08:51:00+00:00"
         },
         {
@@ -5371,6 +5723,10 @@
                 "export",
                 "exporter"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/exporter/issues",
+                "source": "https://github.com/sebastianbergmann/exporter/tree/3.1.4"
+            },
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -5428,6 +5784,10 @@
             "keywords": [
                 "global state"
             ],
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/global-state/issues",
+                "source": "https://github.com/sebastianbergmann/global-state/tree/2.0.0"
+            },
             "time": "2017-04-27T15:39:26+00:00"
         },
         {
@@ -5475,6 +5835,10 @@
             ],
             "description": "Traverses array structures and object graphs to enumerate all referenced objects",
             "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/object-enumerator/issues",
+                "source": "https://github.com/sebastianbergmann/object-enumerator/tree/3.0.4"
+            },
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -5526,6 +5890,10 @@
             ],
             "description": "Allows reflection of object attributes, including inherited and non-public ones",
             "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/object-reflector/issues",
+                "source": "https://github.com/sebastianbergmann/object-reflector/tree/1.1.2"
+            },
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -5585,6 +5953,10 @@
             ],
             "description": "Provides functionality to recursively process PHP variables",
             "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/recursion-context/issues",
+                "source": "https://github.com/sebastianbergmann/recursion-context/tree/3.0.1"
+            },
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -5633,6 +6005,10 @@
             ],
             "description": "Provides a list of PHP built-in functions that operate on resources",
             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/resource-operations/issues",
+                "source": "https://github.com/sebastianbergmann/resource-operations/tree/master"
+            },
             "time": "2015-07-28T20:34:47+00:00"
         },
         {
@@ -5676,6 +6052,10 @@
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/version/issues",
+                "source": "https://github.com/sebastianbergmann/version/tree/master"
+            },
             "time": "2016-10-03T07:35:21+00:00"
         },
         {
@@ -5733,6 +6113,9 @@
             ],
             "description": "Symfony BrowserKit Component",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/browser-kit/tree/4.2"
+            },
             "time": "2019-02-23T15:17:42+00:00"
         },
         {
@@ -5806,6 +6189,9 @@
             ],
             "description": "Eases the creation of beautiful and testable command line interfaces",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/console/tree/v4.4.40"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5869,6 +6255,9 @@
             ],
             "description": "Converts CSS selectors to XPath expressions",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/css-selector/tree/v4.4.37"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5940,6 +6329,9 @@
             ],
             "description": "Eases DOM navigation for HTML and XML documents",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/dom-crawler/tree/v4.4.39"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6021,6 +6413,9 @@
             ],
             "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/event-dispatcher/tree/v4.4.37"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6097,6 +6492,9 @@
                 "interoperability",
                 "standards"
             ],
+            "support": {
+                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v1.1.12"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6156,6 +6554,9 @@
             ],
             "description": "Finds files and directories via an intuitive fluent interface",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/finder/tree/v4.4.37"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6228,6 +6629,9 @@
                 "interoperability",
                 "standards"
             ],
+            "support": {
+                "source": "https://github.com/symfony/service-contracts/tree/v1.1.2"
+            },
             "time": "2019-05-28T07:50:59+00:00"
         },
         {
@@ -6282,6 +6686,9 @@
             ],
             "description": "Loads and dumps YAML files",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/yaml/tree/v4.4.37"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6336,6 +6743,10 @@
                 }
             ],
             "description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
+            "support": {
+                "issues": "https://github.com/theseer/tokenizer/issues",
+                "source": "https://github.com/theseer/tokenizer/tree/1.2.1"
+            },
             "funding": [
                 {
                     "url": "https://github.com/theseer",
@@ -6411,6 +6822,13 @@
                 "debugger",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-debug/issues",
+                "source": "https://github.com/yiisoft/yii2-debug",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -6486,6 +6904,13 @@
                 "faker",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-faker/issues",
+                "source": "https://github.com/yiisoft/yii2-faker",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "funding": [
                 {
                     "url": "https://github.com/yiisoft",
@@ -6551,6 +6976,13 @@
                 "gii",
                 "yii2"
             ],
+            "support": {
+                "forum": "http://www.yiiframework.com/forum/",
+                "irc": "irc://irc.freenode.net/yii",
+                "issues": "https://github.com/yiisoft/yii2-gii/issues",
+                "source": "https://github.com/yiisoft/yii2-gii",
+                "wiki": "http://www.yiiframework.com/wiki/"
+            },
             "time": "2020-01-17T13:33:30+00:00"
         }
     ],
@@ -6566,5 +6998,5 @@
         "php": ">=5.4.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.2.0"
 }

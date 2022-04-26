@@ -86,6 +86,7 @@ body {
   transition: box-shadow .3s,color .3s,-webkit-box-shadow .3s;
   margin: 10px 0;
   cursor: pointer;
+  text-align: center;
 }
 
 .feature-card:hover {

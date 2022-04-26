@@ -6,7 +6,6 @@
 $this->title = Yii::t('app', 'Все лайфхаки');
 
 $this->params['breadcrumbs'][] = ['label' => $this->title, 'url' => \yii\helpers\Url::to(['lifehack/index'])];
-$this->params['subTitle'] = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
 ?>
 <div class="row">
     <?php foreach ($models as $model): ?>
