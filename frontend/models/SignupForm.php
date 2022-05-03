@@ -79,12 +79,12 @@ class SignupForm extends Model
         $user->phone = $this->phone;
         $user->verification_code = (string)($code = random_int(1000, 9999));
         $user->role = User::ROLE_USER;
-        $user->status = User::STATUS_INACTIVE;
+        $user->status = User::STATUS_ACTIVE;
         $user->setPassword($this->password);
         $user->generateAuthKey();
         $user->generateEmailVerificationToken();
 
-        SmsLog::sendSms($this->phone, $code . ' - Onlineenglish', $user->id);
+//        SmsLog::sendSms($this->phone, $code . ' - Onlineenglish', $user->id);
         Yii::$app->session->set('phone', $this->phone);
 
         return $user->save();
