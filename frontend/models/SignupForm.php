@@ -30,12 +30,13 @@ class SignupForm extends Model
         return [
             [['name', 'surname', 'phone'], 'required'],
             [['name', 'surname', 'phone'], 'string', 'max' => 255],
+            ['phone', 'unique', 'targetClass' => '\common\models\User', 'message' => 'Бұл номер тіркелген'],
 
             ['email', 'trim'],
             ['email', 'required'],
             ['email', 'email'],
             ['email', 'string', 'max' => 255],
-            ['email', 'unique', 'targetClass' => '\common\models\User', 'message' => 'This email address has already been taken.'],
+            ['email', 'unique', 'targetClass' => '\common\models\User', 'message' => 'Бұл email тіркелген'],
 
             ['password','required', 'message' => Yii::t('app', 'Придумайте пароль')],
             ['password_repeat' ,'required', 'message' => '{attribute}'],
