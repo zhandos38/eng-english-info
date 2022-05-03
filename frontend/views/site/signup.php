@@ -36,6 +36,10 @@ $this->params['breadcrumbs'][] = $this->title;
 
                 <?= $form->field($model, 'password_repeat')->passwordInput() ?>
 
+                <p>
+                    Тіркелген болсаңыз <a href="<?= \yii\helpers\Url::to(['site/login']) ?>">авторизация бетіне өту</a>
+                </p>
+
                 <div class="form-group">
                     <?= Html::submitButton('Зарегистрироватся', ['class' => 'btn btn-primary', 'name' => 'signup-button']) ?>
                 </div>
