@@ -52,12 +52,12 @@ class SignupForm extends Model
     public function attributeLabels()
     {
         return [
-            'name' => 'Имя',
-            'surname' => 'Фамилия',
-            'email' => 'Почта',
-            'phone' => 'Номер телефона',
-            'password' => 'Пароль',
-            'password_repeat' => 'Повторите пароль',
+            'name' => Yii::t('app', 'Имя'),
+            'surname' => Yii::t('app', 'Фамилия'),
+            'email' => Yii::t('app', 'Почта'),
+            'phone' => Yii::t('app', 'Номер телефона'),
+            'password' => Yii::t('app', 'Пароль'),
+            'password_repeat' => Yii::t('app', 'Повторите пароль'),
         ];
     }
 
