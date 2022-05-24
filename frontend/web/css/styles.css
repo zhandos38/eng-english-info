@@ -241,6 +241,18 @@ footer li {
   color: #f44336;
 }
 
+.navbar-brand__logo-title {
+  color: #fff;
+  margin-top: 14px;
+  margin-left: 8px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.toggled-logo-title {
+  color: #0a0a0a;
+}
+
 @media only screen and (max-width: 600px) {
   .carousel-item {
     height: 100%;

@@ -52,11 +52,14 @@ if (navbar.not('.fixed-bottom').hasClass("static-nav")) {
     $window.scroll(function () {
         let $scroll = $window.scrollTop();
         let $navbar = $(".static-nav");
+        let $logoTitle = $(".navbar-brand__logo-title");
         let nextSection = $(".section-nav-smooth");
         if ($scroll > 250) {
+            $logoTitle.addClass("toggled-logo-title");
             $navbar.addClass("fixedmenu");
             nextSection.css("margin-top", headerHeight);
         } else {
+            $logoTitle.removeClass("toggled-logo-title");
             $navbar.removeClass("fixedmenu");
             nextSection.css("margin-top", 0);
         }
