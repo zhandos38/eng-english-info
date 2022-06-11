@@ -105,7 +105,7 @@ class AnswerController extends Controller
         $model = $this->findModel($id);
 
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
-            return $this->redirect(['view', 'id' => $model->id]);
+            return $this->redirect(['question/view', 'id' => $model->question_id]);
         }
 
         return $this->render('update', [

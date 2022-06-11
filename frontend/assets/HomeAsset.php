@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
 /**
  * Main frontend application asset bundle.
  */
-class AppAsset extends AssetBundle
+class HomeAsset extends AssetBundle
 {
     public $basePath = '@webroot';
     public $baseUrl = '@web';
@@ -22,6 +22,7 @@ class AppAsset extends AssetBundle
         'js/bs-init.js',
         'https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js',
         'js/navbar.js',
+        'js/scripts.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',

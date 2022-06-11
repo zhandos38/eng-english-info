@@ -38,7 +38,7 @@ $this->params['breadcrumbs'][] = $this->title;
             [
                 'attribute' => 'course_id',
                 'value' => function(CourseLesson $model) {
-                    return $model->course->name;
+                    return !empty($model->course) ? $model->course->name : 'Не указано';
                 },
                 'filter' => \yii\helpers\ArrayHelper::map(Course::find()->asArray()->all(), 'id', 'name')
             ],

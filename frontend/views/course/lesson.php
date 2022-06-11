@@ -37,8 +37,8 @@ use yii\web\View; ?>
                         <div class="question-box__text" v-html="questions[currentQuestionId].text"></div>
                         <div class="question-box__container">
                             <div class="question-box__answer" v-for="(answer, key) in questions[currentQuestionId].answers">
-                                <input v-bind:id="answer.id" class="question-box__answer-input" type="radio" v-bind:name="questions[currentQuestionId].id" v-model="questions[currentQuestionId].selectedAnswerId" v-bind:value="key">
-                                <label v-bind:for="answer.id" class="question-box__answer-text" v-html="answer.text"></label>
+                                <input v-bind:id="`answer${answer.id}`" class="question-box__answer-input" type="radio" v-model="questions[currentQuestionId].selectedAnswerId" v-bind:value="key">
+                                <label v-bind:for="`answer${answer.id}`" class="question-box__answer-text" v-html="answer.text"></label>
                             </div>
                         </div>
                     </div>
